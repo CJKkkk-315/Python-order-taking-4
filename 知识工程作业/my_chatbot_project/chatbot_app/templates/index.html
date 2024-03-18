@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chatbot</title>
+    <!-- 引入Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <!-- 引入Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet" crossorigin="anonymous">
+    <!-- 引入Bootstrap JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-md-6 offset-md-3">
+                <h1 class="text-center">Chatbot</h1>
+                <div class="card">
+                    <div class="card-body">
+                        <div id="chat-container" class="mb-3" style="height: 500px; overflow-y: scroll;">
+                            <!-- 聊天内容将在这里显示 -->
+                        </div>
+                        <form id="chat-form" method="post">
+                            {% csrf_token %}
+                            <div class="input-group">
+                                <input type="text" name="input_text" id="input_text" class="form-control" placeholder="输入你的问题" required>
+                                <button type="submit" class="btn btn-primary">发送</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+    document.getElementById('chat-form').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const inputText = document.getElementById('input_text').value;
+        addMessageToChat(inputText, 'user');
+
+        const response = await fetch('/', {
+            method: 'POST',
+            body: new FormData(e.target),
+            headers: {'X-CSRFToken': e.target.elements['csrfmiddlewaretoken'].value
+}
+});
+    const responseData = await response.json();
+    const outputText = responseData.output_text;
+    addMessageToChat(outputText, 'bot');
+
+    document.getElementById('input_text').value = '';
+});
+
+async function addMessageToChat(message, sender) {
+    const chatContainer = document.getElementById('chat-container');
+    const messageElement = document.createElement('div');
+    messageElement.classList.add(sender === 'user' ? 'text-end' : 'text-start', 'mb-2');
+
+    // 根据发送者选择相应的图标
+    const icon = sender === 'user' ? 'bi-person-fill' : 'bi-robot-fill';
+    messageElement.innerHTML = `<i class="bi ${icon} me-2"></i><strong>${sender === 'user' ? '你' : 'Chatbot'}:</strong> <span class="message-content"></span>`;
+    chatContainer.appendChild(messageElement);
+    chatContainer.scrollTop = chatContainer.scrollHeight;
+
+    // 逐字显示文本
+    const messageContentElement = messageElement.querySelector('.message-content');
+    for (let i = 0; i < message.length; i++) {
+        messageContentElement.innerHTML += message[i];
+        await new Promise(resolve => setTimeout(resolve, 20)); // 每个字符间隔100毫秒
+    }
+}
+
+
+
+</script>
+
+
+</html>

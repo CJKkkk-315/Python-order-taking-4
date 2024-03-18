@@ -1,0 +1,45 @@
+field_name,type,comment
+School_code,integer,Official NSW Department of Education school code.
+AgeID,integer,Commonwealth issued school location ID.
+School_name,varchar,Official school name. 
+Street,varchar,School street address (may include building/street number). 
+Town_suburb,varchar,School suburb/town.
+Postcode,integer,School postcode.
+Phone,varchar,School phone
+School_Email,varchar,School email
+Website,varchar,School website
+Fax,varchar,School fax
+latest_year_enrolment_FTE,double,Full-time equivalent (FTE) student enrolments as reported under the Australian Bureau of Statistics (ABS) National Schools Collection (NSSC). 
+Indigenous_pct,varchar,"The percentage of full-time equivalent (FTE) students enrolled, as reported under the NSSC, who identify as Aboriginal or Torres Strait Islanders and are accepted in the community with which they associate."
+LBOTE_pct,integer,"The percentage of students (headcount) who are from language backgrounds other than English (LBOTE). A student is considered LBOTE if in their home a language other than English is spoken by the students, parents or guardians."
+ICSEA_value,integer,"Index of Community Socio-Educational Advantage (ICSEA), sourced from ACARA. The ICSEA is a scale that represents levels of educational advantage. ICSEA values are on a scale, which has a mean of 1000 and a standard deviation of 100. ICSEA values range from around 500 (representing extremely disadvantaged backgrounds) to about 1300 (representing schools with students from very advantaged backgrounds). "
+Level_of_schooling,varchar,"Schooling level (or school type) flag. Options include: primary school, secondary school, central/community school. "
+Selective_school,varchar,"Secondary school selective flag. Options include: fully selective, partially selective, not selective. "
+Opportunity_class,varchar,Opportunity class flag. (Y) or (N) a schoool offers opportunity classes for highly achieving Year 5 and 6 academically gifted students.
+School_specialty_type,varchar,"School speciality flag. Most NSW public schools are comprehensive, however, some schools offer a specialty as well. Options include: technology, sports, language, and creative and performing arts."
+School_subtype,varchar,Further breakdown of a school level/type. Useful for differentiating junior secondary and senior secondary from standard 7-12 secondary schools. Also indicates the type of support provided in Schools for Specific Purposes.
+Support_classes,varchar,Currently not available. 
+Preschool_ind,varchar,Preschool flag. (Y) or (N) a preschool is attached to the school.
+Distance_education,varchar,"Distance education flag. Options include: (s) distance education school, (c) distance education centre, (n) no distance education.  "
+Intensive_english_centre,varchar,Intensive English flag. (Y) or (N) an intensive English centre is attached to this school
+School_gender,varchar,"School population gender status. Options include: co-ed schools, girls schools, boys schools. "
+Late_opening_school,varchar,School late opening hours flag. (Y) or (N) a school opens later.
+Date_1st_teacher,datetime,"First teacher on duty date. Essentially, the official data of the school opened."
+LGA,varchar,Local government area. 
+Electorate,varchar,New South Wales electoral district (2015 boundaries). 
+Fed_electorate,varchar,Federal electorate divisions (2016 boundaries). 
+Operational_directorate,varchar,NSW Department of Education operational directorate. 
+Principal_network,varchar,NSW Department of Education principal network. 
+Operational_directorate_office,varchar,NSW Department of Education operational directorate offices.
+Operational_directorate_office_phone,varchar,NSW Department of Education operational directorate offices phone number
+Operational_directorate_office_address,varchar,NSW Department of Education operational directorate offices address
+FACS_district,varchar,Family and Community Services district.
+Local_health_district,varchar,"NSW local health districts. Eight local health districts cover the Sydney metropolitan region, and seven cover rural and regional NSW."
+AECG_region,varchar,Aboriginal Education Consultative Group region.
+ASGS_remoteness,varchar,"Remoteness category based on the ABS' Australian Statistical Geography Standard (ASGS) 2016 remoteness structure. Options include: Major Cities, Inner Regional, Outer Regional, Remote and Very Remote."
+Latitude,decimal,School latitude coordinates.
+Longitude,decimal,School longitude coordinates. 
+Assets unit,varchar,The department's asset management districts across NSW.
+SA4,varchar,ABS Statistical Area Level 4 - http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/by%20Subject/1270.0.55.001~July%202016~Main%20Features~Statistical%20Area%20Level%204%20(SA4)~10016
+Healthy canteen,varchar,Does the school have a healthy canteen https://healthyschoolcanteens.nsw.gov.au/
+Date_extracted,datetime,Extract date from source systems.

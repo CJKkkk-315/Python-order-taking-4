@@ -1,0 +1,2148 @@
+[
+  {
+    "name": "Temple Mall North",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 416,
+    "coordinates": "latitude-longitude: 22.3425903320313-114.190719604492"
+  },
+  {
+    "name": "Fu Shing Building",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.4420719146729-114.027671813965"
+  },
+  {
+    "name": "Lok Fu Plaza Carpark",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 530,
+    "coordinates": "latitude-longitude: 22.3386573791504-114.186103820801"
+  },
+  {
+    "name": "MegaBox",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 224,
+    "coordinates": "latitude-longitude: 22.3203277587891-114.208526611328"
+  },
+  {
+    "name": "LOHAS Park - the Capitol",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 113,
+    "coordinates": "latitude-longitude: 22.2961540222168-114.272148132324"
+  },
+  {
+    "name": "Shek Lei Shopping Centre II",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 420,
+    "coordinates": "latitude-longitude: 22.3658618927002-114.140121459961"
+  },
+  {
+    "name": "Fu Tung Shopping Centre",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 366,
+    "coordinates": "latitude-longitude: 22.2882328033447-113.941909790039"
+  },
+  {
+    "name": "Landmark North",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 605,
+    "coordinates": "latitude-longitude: 22.5029144287109-114.127586364746"
+  },
+  {
+    "name": "Ocean Terminal",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 238,
+    "coordinates": "latitude-longitude: 22.2956161499023-114.169357299805"
+  },
+  {
+    "name": "Tai Wo Shopping Centre",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 120,
+    "coordinates": "latitude-longitude: 22.4504833221436-114.160835266113"
+  },
+  {
+    "name": "Fanling Town Centre",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 220,
+    "coordinates": "latitude-longitude: 22.4922847747803-114.138900756836"
+  },
+  {
+    "name": "Olympian City 2",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 103,
+    "coordinates": "latitude-longitude: 22.3152523040771-114.162506103516"
+  },
+  {
+    "name": "Festival Walk",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 208,
+    "coordinates": "latitude-longitude: 22.338134765625-114.17391204834"
+  },
+  {
+    "name": "The Long Beach",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 464,
+    "coordinates": "latitude-longitude: 22.3194198608398-114.15657043457"
+  },
+  {
+    "name": "Kwun Tong Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 452,
+    "coordinates": "latitude-longitude: 22.3108863830566-114.225875854492"
+  },
+  {
+    "name": "Gold Coast Piazza",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 224,
+    "coordinates": "latitude-longitude: 22.3718738555908-113.993019104004"
+  },
+  {
+    "name": "China Hong Kong City",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 363,
+    "coordinates": "latitude-longitude: 22.3010005950928-114.167915344238"
+  },
+  {
+    "name": "Chinachem Tsuen Wan Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 555,
+    "coordinates": "latitude-longitude: 22.3752117156982-114.111328125"
+  },
+  {
+    "name": "Hong Kong Science Park",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 230,
+    "coordinates": "latitude-longitude: 22.4262580871582-114.20987701416"
+  },
+  {
+    "name": "Tin Shing Court",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 436,
+    "coordinates": "latitude-longitude: 22.4493846893311-114.001853942871"
+  },
+  {
+    "name": "Shatin Centre",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "capacity": 5,
+    "traffic": 500,
+    "coordinates": "latitude-longitude: 22.382116317749-114.190078735352"
+  },
+  {
+    "name": "Mira Mall",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 116,
+    "coordinates": "latitude-longitude: 22.3006286621094-114.172828674316"
+  },
+  {
+    "name": "Langham Place",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 354,
+    "coordinates": "latitude-longitude: 22.3174228668213-114.168731689453"
+  },
+  {
+    "name": "Citygate",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 550,
+    "coordinates": "latitude-longitude: 22.2911186218262-113.943572998047"
+  },
+  {
+    "name": "CLP Centenary Building",
+    "region": "Kowloon",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 452,
+    "coordinates": "latitude-longitude: 22.3077507019043-114.162055969238"
+  },
+  {
+    "name": "Hong Kong Science Park",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 300,
+    "coordinates": "latitude-longitude: 22.4263610839844-114.209915161133"
+  },
+  {
+    "name": "Hong Kong International Airport",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 464,
+    "coordinates": "latitude-longitude: 22.3181991577148-113.933769226074"
+  },
+  {
+    "name": "The Peak Galleria",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 366,
+    "coordinates": "latitude-longitude: 22.270471572876-114.149543762207"
+  },
+  {
+    "name": "Star Ferry",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 555,
+    "coordinates": "latitude-longitude: 22.2830810546875-114.160255432129"
+  },
+  {
+    "name": "Cityplaza",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 228,
+    "coordinates": "latitude-longitude: 22.2865810394287-114.218032836914"
+  },
+  {
+    "name": "Oi Tung Estate",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 342,
+    "coordinates": "latitude-longitude: 22.2803726196289-114.226852416992"
+  },
+  {
+    "name": "Tin Hau Carpark",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 476,
+    "coordinates": "latitude-longitude: 22.2830295562744-114.191688537598"
+  },
+  {
+    "name": "Cyberport",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 250,
+    "coordinates": "latitude-longitude: 22.262451171875-114.130599975586"
+  },
+  {
+    "name": "HEC ex-Operational Headquarters",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 218,
+    "coordinates": "latitude-longitude: 22.2434043884277-114.147987365723"
+  },
+  {
+    "name": "The Centrium",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 460,
+    "coordinates": "latitude-longitude: 22.280725479126-114.154586791992"
+  },
+  {
+    "name": "Citibank Plaza",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 242,
+    "coordinates": "latitude-longitude: 22.2788238525391-114.160987854004"
+  },
+  {
+    "name": "New World Tower",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 460,
+    "coordinates": "latitude-longitude: 22.280366897583-114.156875610352"
+  },
+  {
+    "name": "148 Electric Road",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 488,
+    "coordinates": "latitude-longitude: 22.2864227294922-114.191902160645"
+  },
+  {
+    "name": "Cornell Centre",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 248,
+    "coordinates": "latitude-longitude: 22.2677135467529-114.243087768555"
+  },
+  {
+    "name": "Island Resort",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 321,
+    "coordinates": "latitude-longitude: 22.2654590606689-114.251121520996"
+  },
+  {
+    "name": "Great Eagle Centre",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 206,
+    "coordinates": "latitude-longitude: 22.2808494567871-114.175270080566"
+  },
+  {
+    "name": "Hopewell Centr",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 244,
+    "coordinates": "latitude-longitude: 22.2742805480957-114.171257019043"
+  },
+  {
+    "name": "Olympic House",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 605,
+    "coordinates": "latitude-longitude: 22.2740020751953-114.18741607666"
+  },
+  {
+    "name": "Sino Plaza",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 550,
+    "coordinates": "latitude-longitude: 22.2816143035889-114.182594299316"
+  },
+  {
+    "name": "Times Square",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 464,
+    "coordinates": "latitude-longitude: 22.2779121398926-114.181762695313"
+  },
+  {
+    "name": "Wu Chung House",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 333,
+    "coordinates": "latitude-longitude: 22.2743892669678-114.172737121582"
+  },
+  {
+    "name": "Sunshine Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 114,
+    "coordinates": "latitude-longitude: 22.3116893768311-114.189300537109"
+  },
+  {
+    "name": "Exchange Tower",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 330,
+    "coordinates": "latitude-longitude: 22.3208255767822-114.209732055664"
+  },
+  {
+    "name": "Fullerton Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 464,
+    "coordinates": "latitude-longitude: 22.313419342041-114.219383239746"
+  },
+  {
+    "name": "Futura Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 212,
+    "coordinates": "latitude-longitude: 22.3117294311523-114.224311828613"
+  },
+  {
+    "name": "Kowloon Bay International Trade &amp; Exhibition Centre ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 400,
+    "coordinates": "latitude-longitude: 22.3230495452881-114.204521179199"
+  },
+  {
+    "name": "Kwun Tong Harbour Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 555,
+    "coordinates": "latitude-longitude: 22.3091583251953-114.221244812012"
+  },
+  {
+    "name": "Metro Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 375,
+    "coordinates": "latitude-longitude: 22.32448387146-114.210235595703"
+  },
+  {
+    "name": "Metro Centre II",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 625,
+    "coordinates": "latitude-longitude: 22.3246746063232-114.210952758789"
+  },
+  {
+    "name": "Remington Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 103,
+    "coordinates": "latitude-longitude: 22.3130493164063-114.219802856445"
+  },
+  {
+    "name": "Skyline Tower",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 492,
+    "coordinates": "latitude-longitude: 22.3260250091553-114.205360412598"
+  },
+  {
+    "name": "Westin Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 428,
+    "coordinates": "latitude-longitude: 22.3130893707275-114.219520568848"
+  },
+  {
+    "name": "Hollywood Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 117,
+    "coordinates": "latitude-longitude: 22.3406944274902-114.203102111816"
+  },
+  {
+    "name": "Empire Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 250,
+    "coordinates": "latitude-longitude: 22.2986316680908-114.178428649902"
+  },
+  {
+    "name": "K11 Art Mall",
+    "region": "Kowloon",
+    "type": "Standard",
+    "capacity": 1,
+    "traffic": 116,
+    "coordinates": "latitude-longitude: 22.2971534729004-114.173316955566"
+  },
+  {
+    "name": "Olympian City I",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 246,
+    "coordinates": "latitude-longitude: 22.3200588226318-114.157608032227"
+  },
+  {
+    "name": "Avon Park",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 600,
+    "coordinates": "latitude-longitude: 22.4874782562256-114.142448425293"
+  },
+  {
+    "name": "Cambridge Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 464,
+    "coordinates": "latitude-longitude: 22.5064926147461-114.122360229492"
+  },
+  {
+    "name": "Grand Regentville",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 605,
+    "coordinates": "latitude-longitude: 22.5003337860107-114.144653320313"
+  },
+  {
+    "name": "Regentville Shopping Mall",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 615,
+    "coordinates": "latitude-longitude: 22.5012283325195-114.143859863281"
+  },
+  {
+    "name": "Corporation Park",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 444,
+    "coordinates": "latitude-longitude: 22.3893356323242-114.207504272461"
+  },
+  {
+    "name": "Shatin Galleria",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 220,
+    "coordinates": "latitude-longitude: 22.3972835540771-114.193092346191"
+  },
+  {
+    "name": "Discovery Park Shopping Mall",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 303,
+    "coordinates": "latitude-longitude: 22.3760948181152-114.112968444824"
+  },
+  {
+    "name": "Panda Place",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 605,
+    "coordinates": "latitude-longitude: 22.3691139221191-114.120895385742"
+  },
+  {
+    "name": "Riviera Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 375,
+    "coordinates": "latitude-longitude: 22.3629608154297-114.114402770996"
+  },
+  {
+    "name": "Waterside Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 570,
+    "coordinates": "latitude-longitude: 22.3633041381836-114.114570617676"
+  },
+  {
+    "name": "Oceania Heights",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 208,
+    "coordinates": "latitude-longitude: 22.383939743042-113.971618652344"
+  },
+  {
+    "name": "Parklane Centre",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 107,
+    "coordinates": "latitude-longitude: 22.3961296081543-113.969444274902"
+  },
+  {
+    "name": "Tuen Mun Town Plaza II",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 124,
+    "coordinates": "latitude-longitude: 22.3938217163086-113.976432800293"
+  },
+  {
+    "name": "Tuen Mun Town Plaza III",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 119,
+    "coordinates": "latitude-longitude: 22.3943252563477-113.977485656738"
+  },
+  {
+    "name": "Golden Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 585,
+    "coordinates": "latitude-longitude: 22.4452037811279-114.031227111816"
+  },
+  {
+    "name": "Ping Wui Centre",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 590,
+    "coordinates": "latitude-longitude: 22.4468116760254-114.022026062012"
+  },
+  {
+    "name": "Springdale Villas",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 620,
+    "coordinates": "latitude-longitude: 22.4404621124268-114.021453857422"
+  },
+  {
+    "name": "Choi Yuen Plaza",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 625,
+    "coordinates": "latitude-longitude: 22.5014114379883-114.127182006836"
+  },
+  {
+    "name": "Trend Centre",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 109,
+    "coordinates": "latitude-longitude: 22.2659244537354-114.235366821289"
+  },
+  {
+    "name": "Amoy Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 472,
+    "coordinates": "latitude-longitude: 22.3251075744629-114.21630859375"
+  },
+  {
+    "name": "Excel Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 336,
+    "coordinates": "latitude-longitude: 22.3389415740967-114.150192260742"
+  },
+  {
+    "name": "Choi Yuen Plaza",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 118,
+    "coordinates": "latitude-longitude: 22.5002918243408-114.126441955566"
+  },
+  {
+    "name": "Cheung Fat Plaza",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 535,
+    "coordinates": "latitude-longitude: 22.3626480102539-114.102630615234"
+  },
+  {
+    "name": "Yau Lai Shopping Centre",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 202,
+    "coordinates": "latitude-longitude: 22.2985076904297-114.237464904785"
+  },
+  {
+    "name": "Yau Lai Shopping Centre",
+    "region": "Kowloon",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 520,
+    "coordinates": "latitude-longitude: 22.2985076904297-114.237464904785"
+  },
+  {
+    "name": "Choi Tak Shopping Centre",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 520,
+    "coordinates": "latitude-longitude: 22.3314208984375-114.213768005371"
+  },
+  {
+    "name": "Shui Pin Wai Estate",
+    "region": "New Territories",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 510,
+    "coordinates": "latitude-longitude: 22.4468097686768-114.022079467773"
+  },
+  {
+    "name": "Stanley Plaza",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 230,
+    "coordinates": "latitude-longitude: 22.2200450897217-114.210319519043"
+  },
+  {
+    "name": "Star Ferry",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 357,
+    "coordinates": "latitude-longitude: 22.2822742462158-114.160430908203"
+  },
+  {
+    "name": "Hong Kong International Airport",
+    "region": "Outlying Islands",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 2,
+    "traffic": 246,
+    "coordinates": "latitude-longitude: 22.3182468414307-113.933815002441"
+  },
+  {
+    "name": "Kwai Chung Shopping Centre ",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 560,
+    "coordinates": "latitude-longitude: 22.367431640625-114.127708435059"
+  },
+  {
+    "name": "Tsuen Wan Multi-storey Car Park",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 230,
+    "coordinates": "latitude-longitude: 22.373010635376-114.118721008301"
+  },
+  {
+    "name": "Lions Rise Mall",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 550,
+    "coordinates": "latitude-longitude: 22.3398857116699-114.196968078613"
+  },
+  {
+    "name": "Sheung Fung Street Market",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 480,
+    "coordinates": "latitude-longitude: 22.3441123962402-114.196937561035"
+  },
+  {
+    "name": "AIA Financial Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 496,
+    "coordinates": "latitude-longitude: 22.335033416748-114.199325561523"
+  },
+  {
+    "name": "Queensway Government Offices",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.2772960662842-114.163833618164"
+  },
+  {
+    "name": "Murray Road Multi-storey Car Park",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 488,
+    "coordinates": "latitude-longitude: 22.2803325653076-114.162727355957"
+  },
+  {
+    "name": "Two International Finance Centre",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 118,
+    "coordinates": "latitude-longitude: 22.2860260009766-114.158569335938"
+  },
+  {
+    "name": "Rumsey Street Multi-storey Car Park",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 416,
+    "coordinates": "latitude-longitude: 22.2875308990479-114.152137756348"
+  },
+  {
+    "name": "City Hall Multi-storey Car Park",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 428,
+    "coordinates": "latitude-longitude: 22.2817783355713-114.161598205566"
+  },
+  {
+    "name": "Tin Hau Carpark",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 565,
+    "coordinates": "latitude-longitude: 22.2830295562744-114.191688537598"
+  },
+  {
+    "name": "North District Government Offices",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 580,
+    "coordinates": "latitude-longitude: 22.4953308105469-114.138282775879"
+  },
+  {
+    "name": "Sai Kung Government Offices",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 476,
+    "coordinates": "latitude-longitude: 22.3817367553711-114.271789550781"
+  },
+  {
+    "name": "Maritime Square",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 200,
+    "coordinates": "latitude-longitude: 22.3584804534912-114.105545043945"
+  },
+  {
+    "name": "East Point City",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 375,
+    "coordinates": "latitude-longitude: 22.315637588501-114.265960693359"
+  },
+  {
+    "name": "Wan Chai Tower and Immigration Tower",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 400,
+    "coordinates": "latitude-longitude: 22.2804927825928-114.17276763916"
+  },
+  {
+    "name": "Laws Commercial Plaza",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 226,
+    "coordinates": "latitude-longitude: 22.3380947113037-114.149971008301"
+  },
+  {
+    "name": "Mikiki",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 208,
+    "coordinates": "latitude-longitude: 22.3341083526611-114.19702911377"
+  },
+  {
+    "name": "Telford Plaza Phase 1D",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.3221912384033-114.213203430176"
+  },
+  {
+    "name": "Yue Wan Estate Carpark",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 400,
+    "coordinates": "latitude-longitude: 22.2648334503174-114.240249633789"
+  },
+  {
+    "name": "Tak Long Estate",
+    "region": "Kowloon",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 484,
+    "coordinates": "latitude-longitude: 22.3287239074707-114.204620361328"
+  },
+  {
+    "name": "Kerry Centre",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 238,
+    "coordinates": "latitude-longitude: 22.2904682159424-114.210182189941"
+  },
+  {
+    "name": "Oxford House ",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 114,
+    "coordinates": "latitude-longitude: 22.2873115539551-114.213020324707"
+  },
+  {
+    "name": "Dorset House ",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 605,
+    "coordinates": "latitude-longitude: 22.287410736084-114.212249755859"
+  },
+  {
+    "name": "One Island East ",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 109,
+    "coordinates": "latitude-longitude: 22.2862701416016-114.21305847168"
+  },
+  {
+    "name": "Kai Tak Cruise Terminal ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 560,
+    "coordinates": "latitude-longitude: 22.3074970245361-114.211959838867"
+  },
+  {
+    "name": "Hung Hom Station Car Park ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 448,
+    "coordinates": "latitude-longitude: 22.3025379180908-114.181098937988"
+  },
+  {
+    "name": "Kai Ching Estate ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 436,
+    "coordinates": "latitude-longitude: 22.3321514129639-114.203804016113"
+  },
+  {
+    "name": "One International Finance Centre ",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 242,
+    "coordinates": "latitude-longitude: 22.284574508667-114.157752990723"
+  },
+  {
+    "name": "Hanford Plaza ",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 408,
+    "coordinates": "latitude-longitude: 22.3817367553711-113.976921081543"
+  },
+  {
+    "name": "Sun Tuen Mun Shopping Centre ",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 420,
+    "coordinates": "latitude-longitude: 22.3808631896973-113.964363098145"
+  },
+  {
+    "name": "Kornhill Plaza (south) ",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 488,
+    "coordinates": "latitude-longitude: 22.2841281890869-114.217002868652"
+  },
+  {
+    "name": "North Point Government Offices",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 216,
+    "coordinates": "latitude-longitude: 22.2919883728027-114.208099365234"
+  },
+  {
+    "name": "Shau Kei Wan Multi-storey Car Park",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 236,
+    "coordinates": "latitude-longitude: 22.2789058685303-114.229499816895"
+  },
+  {
+    "name": "Cheung Sha Wan Government Offices",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 222,
+    "coordinates": "latitude-longitude: 22.3320446014404-114.160491943359"
+  },
+  {
+    "name": "Yau Ma Tei Car Park",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 238,
+    "coordinates": "latitude-longitude: 22.3092842102051-114.170700073242"
+  },
+  {
+    "name": "Sha Tin Government Offices",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 432,
+    "coordinates": "latitude-longitude: 22.3859195709229-114.18724822998"
+  },
+  {
+    "name": "Whampoa Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 228,
+    "coordinates": "latitude-longitude: 22.3045139312744-114.190353393555"
+  },
+  {
+    "name": "Ka Wai Chuen ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 500,
+    "coordinates": "latitude-longitude: 22.3075923919678-114.186309814453"
+  },
+  {
+    "name": "Remington Centre ",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 357,
+    "coordinates": "latitude-longitude: 22.3131122589111-114.219635009766"
+  },
+  {
+    "name": "Shui On Centre ",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 124,
+    "coordinates": "latitude-longitude: 22.2804565429688-114.171325683594"
+  },
+  {
+    "name": "AIA Tower",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 424,
+    "coordinates": "latitude-longitude: 22.2881488800049-114.192230224609"
+  },
+  {
+    "name": "Paradise Mall (West)",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.2780895233154-114.239112854004"
+  },
+  {
+    "name": "Lai Tak Tsuen ",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 448,
+    "coordinates": "latitude-longitude: 22.2783584594727-114.194046020508"
+  },
+  {
+    "name": "Mei Tin Estate",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 327,
+    "coordinates": "latitude-longitude: 22.3762607574463-114.171104431152"
+  },
+  {
+    "name": "Ma On Shan Centre",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 540,
+    "coordinates": "latitude-longitude: 22.4263782501221-114.233116149902"
+  },
+  {
+    "name": "New Town Plaza III",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 212,
+    "coordinates": "latitude-longitude: 22.3800792694092-114.18709564209"
+  },
+  {
+    "name": "New Town Plaza I",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 615,
+    "coordinates": "latitude-longitude: 22.382194519043-114.188804626465"
+  },
+  {
+    "name": "Plaza Ascot",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 324,
+    "coordinates": "latitude-longitude: 22.4001502990723-114.200958251953"
+  },
+  {
+    "name": "Shatin Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 123,
+    "coordinates": "latitude-longitude: 22.3837928771973-114.189521789551"
+  },
+  {
+    "name": "The Tolo Place",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 218,
+    "coordinates": "latitude-longitude: 22.4255027770996-114.229858398438"
+  },
+  {
+    "name": "Sunshine City Phase IV",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 510,
+    "coordinates": "latitude-longitude: 22.4235343933105-114.231117248535"
+  },
+  {
+    "name": "Sunshine City Phase III",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 460,
+    "coordinates": "latitude-longitude: 22.4228897094727-114.231727600098"
+  },
+  {
+    "name": "Shatin Galleria",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 230,
+    "coordinates": "latitude-longitude: 22.3968505859375-114.193458557129"
+  },
+  {
+    "name": "Sheung Shui Centre",
+    "region": "New Territories",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 210,
+    "coordinates": "latitude-longitude: 22.5005378723145-114.130462646484"
+  },
+  {
+    "name": "Tseung Kwan O Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 108,
+    "coordinates": "latitude-longitude: 22.3094387054443-114.26163482666"
+  },
+  {
+    "name": "PopCorn 2",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 416,
+    "coordinates": "latitude-longitude: 22.3094062805176-114.261558532715"
+  },
+  {
+    "name": "PopCorn 1",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 124,
+    "coordinates": "latitude-longitude: 22.3083724975586-114.258735656738"
+  },
+  {
+    "name": "Maritime Bay",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 468,
+    "coordinates": "latitude-longitude: 22.3142108917236-114.265312194824"
+  },
+  {
+    "name": "Luk Yeung Sun Chuen",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 448,
+    "coordinates": "latitude-longitude: 22.37229347229-114.121849060059"
+  },
+  {
+    "name": "International Trade Centre",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 570,
+    "coordinates": "latitude-longitude: 22.3743495941162-114.108009338379"
+  },
+  {
+    "name": "Town Square",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 321,
+    "coordinates": "latitude-longitude: 22.3716239929199-114.11840057373"
+  },
+  {
+    "name": "City Landmark",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 496,
+    "coordinates": "latitude-longitude: 22.3705806732178-114.117881774902"
+  },
+  {
+    "name": "Kowloon Shangri-la Hotel",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 117,
+    "coordinates": "latitude-longitude: 22.2974681854248-114.176887512207"
+  },
+  {
+    "name": "Wealth Commerical Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 108,
+    "coordinates": "latitude-longitude: 22.3167915344238-114.17350769043"
+  },
+  {
+    "name": "Park-In Commercial Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 318,
+    "coordinates": "latitude-longitude: 22.3154621124268-114.171272277832"
+  },
+  {
+    "name": "Elements (South)",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 545,
+    "coordinates": "latitude-longitude: 22.3040962219238-114.159973144531"
+  },
+  {
+    "name": "Elements (North)",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 595,
+    "coordinates": "latitude-longitude: 22.306697845459-114.161155700684"
+  },
+  {
+    "name": "Hong Kong Scout Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 351,
+    "coordinates": "latitude-longitude: 22.3024673461914-114.169158935547"
+  },
+  {
+    "name": "Aqua Marine (JUSCO Car Park)",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 101,
+    "coordinates": "latitude-longitude: 22.3331871032715-114.148574829102"
+  },
+  {
+    "name": "Manhattan Hill",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 590,
+    "coordinates": "latitude-longitude: 22.3343048095703-114.142524719238"
+  },
+  {
+    "name": "Kowloon Plaza",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 351,
+    "coordinates": "latitude-longitude: 22.3383007049561-114.14917755127"
+  },
+  {
+    "name": "Dragon Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 110,
+    "coordinates": "latitude-longitude: 22.3399715423584-114.149429321289"
+  },
+  {
+    "name": "CEO Tower",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.3393592834473-114.149322509766"
+  },
+  {
+    "name": "Garden Estate  (Lotus Tower)",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 505,
+    "coordinates": "latitude-longitude: 22.317663192749-114.217323303223"
+  },
+  {
+    "name": "Lower Ngau Tau Kok Estate",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 440,
+    "coordinates": "latitude-longitude: 22.3207054138184-114.215644836426"
+  },
+  {
+    "name": "Domain",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 545,
+    "coordinates": "latitude-longitude: 22.2969417572021-114.23950958252"
+  },
+  {
+    "name": "Octa Tower",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 530,
+    "coordinates": "latitude-longitude: 22.3155784606934-114.212265014648"
+  },
+  {
+    "name": "Everest Industrial Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 101,
+    "coordinates": "latitude-longitude: 22.3128681182861-114.222183227539"
+  },
+  {
+    "name": "Camelpaint Building",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 230,
+    "coordinates": "latitude-longitude: 22.310697555542-114.225021362305"
+  },
+  {
+    "name": "Proficient Industrial Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 105,
+    "coordinates": "latitude-longitude: 22.3226890563965-114.20824432373"
+  },
+  {
+    "name": "Pacific Trade Centre",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 232,
+    "coordinates": "latitude-longitude: 22.3158416748047-114.212532043457"
+  },
+  {
+    "name": "Telford Plaza II",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 112,
+    "coordinates": "latitude-longitude: 22.3210048675537-114.21297454834"
+  },
+  {
+    "name": "Convention Plaza (Expo Drive Central Road) Carpark",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 452,
+    "coordinates": "latitude-longitude: 22.2825965881348-114.173751831055"
+  },
+  {
+    "name": "Convention Plaza (Harbour Road) Carpark",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 218,
+    "coordinates": "latitude-longitude: 22.2806835174561-114.17529296875"
+  },
+  {
+    "name": "Telford Plaza Phase 1",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 321,
+    "coordinates": "latitude-longitude: 22.3221912384033-114.213203430176"
+  },
+  {
+    "name": "Sheung Tak Plaza",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 555,
+    "coordinates": "latitude-longitude: 22.3104114532471-114.258033752441"
+  },
+  {
+    "name": "Nina Tower",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 400,
+    "coordinates": "latitude-longitude: 22.3688278198242-114.113906860352"
+  },
+  {
+    "name": "Tuen Mun Town Plaza I",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 101,
+    "coordinates": "latitude-longitude: 22.3935165405273-113.976783752441"
+  },
+  {
+    "name": "Uptown Plaza",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 108,
+    "coordinates": "latitude-longitude: 22.4442234039307-114.168502807617"
+  },
+  {
+    "name": "Tin Shing Court",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 306,
+    "coordinates": "latitude-longitude: 22.44948387146-114.001953125"
+  },
+  {
+    "name": "Pioneer Centre",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 420,
+    "coordinates": "latitude-longitude: 22.3226432800293-114.169326782227"
+  },
+  {
+    "name": "Asia Orient Tower",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 412,
+    "coordinates": "latitude-longitude: 22.2787990570068-114.169677734375"
+  },
+  {
+    "name": "Cathay Pacific City",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 220,
+    "coordinates": "latitude-longitude: 22.298282623291-113.933906555176"
+  },
+  {
+    "name": "Choi Hung Park-and-Ride Public Car Park",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 115,
+    "coordinates": "latitude-longitude: 22.3342418670654-114.210273742676"
+  },
+  {
+    "name": "Chung On Shopping Centre",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 102,
+    "coordinates": "latitude-longitude: 22.4220676422119-114.227081298828"
+  },
+  {
+    "name": "Coronation Circle",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 452,
+    "coordinates": "latitude-longitude: 22.3095855712891-114.16633605957"
+  },
+  {
+    "name": "Electrical and Mechanical Services Department Headquarters",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 315,
+    "coordinates": "latitude-longitude: 22.3258056640625-114.204681396484"
+  },
+  {
+    "name": "Fu Shin Shopping Centre",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 300,
+    "coordinates": "latitude-longitude: 22.4543685913086-114.174835205078"
+  },
+  {
+    "name": "Fu Tai Shopping Centre",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 460,
+    "coordinates": "latitude-longitude: 22.4127731323242-113.983123779297"
+  },
+  {
+    "name": "Grand Central Plaza",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 500,
+    "coordinates": "latitude-longitude: 22.3859786987305-114.187423706055"
+  },
+  {
+    "name": "Hing Wah Plaza",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 123,
+    "coordinates": "latitude-longitude: 22.2628288269043-114.236206054688"
+  },
+  {
+    "name": "Hong Kong SkyCity Marriott Hotel",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 236,
+    "coordinates": "latitude-longitude: 22.3192901611328-113.943565368652"
+  },
+  {
+    "name": "Hong Kong Wetland Park",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 250,
+    "coordinates": "latitude-longitude: 22.4681568145752-114.003433227539"
+  },
+  {
+    "name": "Hotel Icon",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 575,
+    "coordinates": "latitude-longitude: 22.3008308410645-114.178642272949"
+  },
+  {
+    "name": "Hotel Panorama by Rhombus",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 111,
+    "coordinates": "latitude-longitude: 22.2976894378662-114.174591064453"
+  },
+  {
+    "name": "InterContinental Grand Stanford Hong Kong",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 360,
+    "coordinates": "latitude-longitude: 22.2990283966064-114.178215026855"
+  },
+  {
+    "name": "International Commerce Centre",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 110,
+    "coordinates": "latitude-longitude: 22.3038120269775-114.160415649414"
+  },
+  {
+    "name": "Le Meridien Cyberport",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 111,
+    "coordinates": "latitude-longitude: 22.2617301940918-114.129173278809"
+  },
+  {
+    "name": "Lee Garden 1",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 550,
+    "coordinates": "latitude-longitude: 22.2782039642334-114.184913635254"
+  },
+  {
+    "name": "Lee Garden 2",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 342,
+    "coordinates": "latitude-longitude: 22.2782363891602-114.186065673828"
+  },
+  {
+    "name": "Lee Garden 2",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 200,
+    "coordinates": "latitude-longitude: 22.2782363891602-114.186065673828"
+  },
+  {
+    "name": "Leighton Centre",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 348,
+    "coordinates": "latitude-longitude: 22.2780246734619-114.183151245117"
+  },
+  {
+    "name": "L&#39;hotel elan",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "capacity": 5,
+    "traffic": 590,
+    "coordinates": "latitude-longitude: 22.3140125274658-114.219230651855"
+  },
+  {
+    "name": "L&#39;hotel Island South",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 336,
+    "coordinates": "latitude-longitude: 22.2500247955322-114.168029785156"
+  },
+  {
+    "name": "Lions Rise",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 412,
+    "coordinates": "latitude-longitude: 22.3398857116699-114.196968078613"
+  },
+  {
+    "name": "Lodgewood",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 565,
+    "coordinates": "latitude-longitude: 22.3212547302246-114.164367675781"
+  },
+  {
+    "name": "Mira Moon Hotel",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 116,
+    "coordinates": "latitude-longitude: 22.2797737121582-114.17894744873"
+  },
+  {
+    "name": "Ocean Park Hong Kong",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 218,
+    "coordinates": "latitude-longitude: 22.2483463287354-114.174369812012"
+  },
+  {
+    "name": "Oi Man Plaza",
+    "region": "Kowloon",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 363,
+    "coordinates": "latitude-longitude: 22.3136730194092-114.177825927734"
+  },
+  {
+    "name": "Olympian City 3",
+    "region": "Kowloon",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 113,
+    "coordinates": "latitude-longitude: 22.3170890808105-114.165306091309"
+  },
+  {
+    "name": "One Island South",
+    "region": "Hong Kong Island",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 204,
+    "coordinates": "latitude-longitude: 22.2487468719482-114.166770935059"
+  },
+  {
+    "name": "One Midtown",
+    "region": "New Territories",
+    "type": "Standard",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 351,
+    "coordinates": "latitude-longitude: 22.3725452423096-114.105422973633"
+  },
+  {
+    "name": "One Pacific Place",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 232,
+    "coordinates": "latitude-longitude: 22.2778816223145-114.166595458984"
+  },
+  {
+    "name": "One Peking",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 496,
+    "coordinates": "latitude-longitude: 22.2958583831787-114.169311523438"
+  },
+  {
+    "name": "Regal Airport Hotel",
+    "region": "Outlying Islands",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 124,
+    "coordinates": "latitude-longitude: 22.3194007873535-113.934501647949"
+  },
+  {
+    "name": "Regal Hong Kong Hotel",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 363,
+    "coordinates": "latitude-longitude: 22.2789096832275-114.186737060547"
+  },
+  {
+    "name": "Regal Kowloon Hotel",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 102,
+    "coordinates": "latitude-longitude: 22.2989234924316-114.177551269531"
+  },
+  {
+    "name": "Regal Oriental Hotel",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 354,
+    "coordinates": "latitude-longitude: 22.3301620483398-114.192749023438"
+  },
+  {
+    "name": "Regal Riverside Hotel",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 505,
+    "coordinates": "latitude-longitude: 22.3822288513184-114.196907043457"
+  },
+  {
+    "name": "Royal Garden Hotel",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 116,
+    "coordinates": "latitude-longitude: 22.298656463623-114.177337646484"
+  },
+  {
+    "name": "Royal Park Hotel",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 226,
+    "coordinates": "latitude-longitude: 22.3795566558838-114.188835144043"
+  },
+  {
+    "name": "Royal Plaza Hotel",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 113,
+    "coordinates": "latitude-longitude: 22.3247966766357-114.173179626465"
+  },
+  {
+    "name": "Royal View Hotel",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 496,
+    "coordinates": "latitude-longitude: 22.3691787719727-114.078132629395"
+  },
+  {
+    "name": "Sun Hung Kai Centre",
+    "region": "Hong Kong Island",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 345,
+    "coordinates": "latitude-longitude: 22.2801170349121-114.176582336426"
+  },
+  {
+    "name": "Tai Tong Lychee Garden",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 4,
+    "traffic": 460,
+    "coordinates": "latitude-longitude: 22.4135494232178-114.025596618652"
+  },
+  {
+    "name": "The Pulse",
+    "region": "Hong Kong Island",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 242,
+    "coordinates": "latitude-longitude: 22.2359619140625-114.197891235352"
+  },
+  {
+    "name": "The Wings 2",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 5,
+    "traffic": 610,
+    "coordinates": "latitude-longitude: 22.3084621429443-114.260925292969"
+  },
+  {
+    "name": "V City",
+    "region": "New Territories",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 2,
+    "traffic": 234,
+    "coordinates": "latitude-longitude: 22.3958740234375-113.97184753418"
+  },
+  {
+    "name": "W Hong Kong",
+    "region": "Kowloon",
+    "type": "SemiQuick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 321,
+    "coordinates": "latitude-longitude: 22.3046779632568-114.160247802734"
+  },
+  {
+    "name": "Yoho Mall Phase I",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 3,
+    "traffic": 303,
+    "coordinates": "latitude-longitude: 22.4426822662354-114.036911010742"
+  },
+  {
+    "name": "Yoho Mall Phase II",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "Others",
+    "capacity": 1,
+    "traffic": 120,
+    "coordinates": "latitude-longitude: 22.4456615447998-114.033630371094"
+  },
+  {
+    "name": "Heung Yee Kuk Building",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 110,
+    "coordinates": "latitude-longitude: 22.3903503417969-114.206146240234"
+  },
+  {
+    "name": "Sunshine City Phase 4",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 1,
+    "traffic": 118,
+    "coordinates": "latitude-longitude: 22.4242649078369-114.233268737793"
+  },
+  {
+    "name": "Jockey Club Kau Sai Chau Golf Course Public Car Park",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 3,
+    "traffic": 366,
+    "coordinates": "latitude-longitude: 22.3847637176514-114.276702880859"
+  },
+  {
+    "name": "Wah Sum Car Park",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 560,
+    "coordinates": "latitude-longitude: 22.486665725708-114.143257141113"
+  },
+  {
+    "name": "Cheung On Estate",
+    "region": "New Territories",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 4,
+    "traffic": 436,
+    "coordinates": "latitude-longitude: 22.360803604126-114.104461669922"
+  },
+  {
+    "name": "Ocean Terminal ",
+    "region": "Kowloon",
+    "type": "Quick",
+    "provider": "CLP",
+    "capacity": 5,
+    "traffic": 590,
+    "coordinates": "latitude-longitude: 22.2956142425537-114.169326782227"
+  }
+]

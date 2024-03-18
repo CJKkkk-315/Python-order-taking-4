@@ -1,0 +1,11 @@
+apple 苹果
+banana 香蕉
+father 爸爸
+mother 妈妈
+family 家庭
+time 时间
+first 第一
+pen 笔
+ruler 尺子
+maybe 可能
+code 代码

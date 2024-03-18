@@ -1,0 +1,27 @@
+The attributes are:
+---------------------
+
+1. Date: in UTC.
+2. Time: in UTC.
+3. Indoor temperature (dinning-room), in ºC.
+4. Indoor temperature (room), in ºC.
+5. Weather forecast temperature, in ºC.
+6. Carbon dioxide in ppm (dinning room).
+7. Carbon dioxide in ppm (room).
+8. Relative humidity (dinning room), in %.
+9. Relative humidity (room), in %.
+10. Lighting (dinning room), in Lux.
+11. Lighting (room), in Lux.
+12. Rain, the proportion of the last 15 minutes where rain was detected (a value in range [0,1]).
+13. Sun dusk.
+14. Wind, in m/s.
+15. Sun light in west facade, in Lux.
+16. Sun light in east facade, in Lux.
+17. Sun light in south facade, in Lux.
+18. Sun irradiance, in W/m2.
+19. Enthalpic motor 1, 0 or 1 (on-off).
+20. Enthalpic motor 2, 0 or 1 (on-off).
+21. Enthalpic motor turbo, 0 or 1 (on-off).
+22. Outdoor temperature, in ºC.
+23. Outdoor relative humidity, in %.
+24. Day of the week (computed from the date), 1=Monday,..., 7=Sunday.

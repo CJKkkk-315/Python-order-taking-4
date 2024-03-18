@@ -1,0 +1,11 @@
+orange 橘子
+hand 手
+head 头
+small 小
+big 大
+so 所以
+ill 生病
+can 可以
+also 也
+maybe 可能
+bug 虫子

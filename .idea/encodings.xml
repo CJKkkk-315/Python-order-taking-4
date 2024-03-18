@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/4题250/SCI影响因子.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/50爬虫/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/csv抽样/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/excel2json/res.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/floyd/link1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/gui词云/测试文本.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/n个excel/data(1).csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pdfjson/result.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/post请求测试/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/slk处理/RIGHT/LW_RT1.slk" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/三题考试/position.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/两个词云/中文词频.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/中文文本系统/filtered_words.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/中文词云/工管1班许智博.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/中文词云/词频排行.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/光谱画图/G1R.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/光谱画图/G2R.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/光谱画图/G3R.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/共现矩阵/data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/共现矩阵/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/出题系统/1_语音意识测试.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/出题系统/res/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/出题系统/res/res.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/协方差矩阵/data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/单车预测/res_data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/句子计算/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/商标搜索/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/图像识别/res_str/right_half_slide_16_image.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/图像识别/老1-5/right_half_slide_0_image.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/天气爬取/西安.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/天气爬取/银川.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/天气爬取/黑河.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/对齐/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/徐心怡的毕业/2019年esg信息.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/微博评论情感词云/微博评论终.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/data/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/data/17.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/data/4.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/数字文本处理/320/res.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/新闻标题情感分析/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/方位角计算/save.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/汽车问题爬虫/res.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/汽车问题爬虫/天窗漏水.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/组合聚类/datasample(1).csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/股票爬虫/data1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/股票爬虫/data2.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/股票邮件系统/SignalOut.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/词云修改/CustomWordCloud.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/词云修改/测试文本.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/误码/data2(2).txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/误码/data2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/链家爬虫/res.csv" charset="GBK" />
+  </component>
+</project>

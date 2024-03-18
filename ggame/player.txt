@@ -1,0 +1,10 @@
+Lisa Smith
+17 13 2 2 105
+A
+0 0 0 0 100
+B
+0 0 0 0 100
+Andrew Whittaker
+7 0 7 0 55
+Steve Jobs
+2 1 1 0 0

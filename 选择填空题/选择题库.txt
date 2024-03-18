@@ -1,0 +1,20 @@
+在Python语言中, 以下变量名合法的是()	for	123abc	_int	x/7
+在Python语言中, 在屏幕输出Hello World使用的Python语句是()	printf('Hello World')	print(Hello World)	print("Hello World")	printf("Hello World")
+在Python语言中, 以下赋值语句合法的是()	x=1,y=2	x=y=2	x=1 y=2	x=1: y=2
+关于Python程序注释的描述, 以下选项中错误的是()	Python语言的单行注释可以以#开头	Python语言的单行注释可以以单引号开头	Python语言的多行注释可以每行都以#开头	Python语言有两种注释方式: 单行注释和多行注释
+在Python语言中, 以下不属于Python保留字的是()	class	pass	sub	def
+在Python语言中, 不能作为变量名的是()	temp	_temp	5temp	Temp
+在Python语言中, 下列选项中非数字的是()	0a123	0b101	0o123	0x123
+x= "3.1415926", 以下表示" 3.14 "的是()	x[0:3]	x[1:4]	x[0:4]	x[0:2]
+在Python语言中, 下列函数不能实现类型转换的是()	str()	type()	int()	float()
+在Python语言中, 下列语句是非法语句的是()	x =+ y	x += y	x = y =1	x,y = 1,1
+在Python语言中, 下列不能进行条件逻辑操作的是()	and	or	==	><
+在Python语言中, 列表变量ls1共包含10个元素其取值范围是()	(0,10)	[0,10]	[1,10]	[0,9]
+在Python语言中, 下列变量名符合Python的变量命名规则的是()	33_keyword	key@word33_	nonlocal	_33keyword
+在Python语言中读入CSV文件按照特定分隔符抽取信息最有可能用到的函数是()	read()	join()	replace()	split()
+在Python语言中使用正则表达式的库是()	re	numpy	pandas	scrapy
+下列不属于Python标准库的是()	sys	math	pygame	random
+关于Python列表描述错误的是()	列表元素可以被任意修改	列表元素的数据类型要一致	列表元素的个数不限	列表元素可以由多个共同变量表示
+在Python语言中, 下列关于列表变量ls描述错误的是()	ls.copy()是生成一个新列表并复制ls的所有的元素	ls.remove(x)是删除ls中所有的x元素	ls.append(x)是在ls最后添加一个元素	ls.reverse()是反转列表ls中所有元素
+Python中读取文件一行内容的操作是()	readtext	readline	readall	read
+以下不属于Python保留字的是()	goto	False	True	pass

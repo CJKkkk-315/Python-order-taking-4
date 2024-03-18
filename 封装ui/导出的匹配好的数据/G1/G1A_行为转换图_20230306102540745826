@@ -1,0 +1,5 @@
+// 行为转移关系
+digraph {
+	node [fontname=FANGSONG]
+	edge [arrowhead=empty splines=spline style=dashed]
+}

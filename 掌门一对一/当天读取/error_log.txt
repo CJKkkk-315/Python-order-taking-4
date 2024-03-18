@@ -1,0 +1,720 @@
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+
+2024-03-04
+19872029102
+Cz123456
+2024-03-04
+发生异常：'data'
+Traceback (most recent call last):
+  File "E:\PYTHON接单4\掌门一对一\当天读取\当天读取.py", line 62, in <module>
+    slist = json.loads(response.text)['data']['list']
+KeyError: 'data'
+

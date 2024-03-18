@@ -1,0 +1,83 @@
+100
+1
+Just landed on Mars and it feels amazing!
+
+2, 5, 6
+4
+
+200
+1
+Just tested the %Starship prototype and it's looking great! Can't wait for the next test! %2EZ %SpaceX %CEO
+2EZ, SpaceX, Starship, CEO
+2, 3, 4, 5, 7, 10, 11
+2, 3
+
+250
+1
+I'm going to buy %twitter. %RichVibes
+RichVibes, Twitter
+10, 11
+5, 2, 3
+
+300
+2
+Just had a great meeting with the team discussing the future of %Twitter. Exciting things to come! %CEO %Future
+CEO, Twitter, Future
+1, 10, 5
+
+
+400
+2
+Love seeing all the creative ways people are using Twitter. Keep it up! %Twitter %Creativity
+Twitter, Creativity
+
+
+
+500
+3
+Had an amazing time performing at the %Grammys tonight! Thank you to all my fans for your support! %Mu$ic %Blessed %TaylorFansRejoice
+Grammys, Mu$ic, Blessed, TaylorFansRejoice
+1, 2, 10, 11
+3, 4, 5
+
+700
+4
+Had a great meeting with some fellow philanthropists today. We're making progress on some important initiatives! %Philanthropy %Progress %CEO
+Philanthropy, Progress, CEO
+6, 7
+3, 10
+
+900
+5
+Love seeing all the amazing games coming out lately. The %Gaming industry is always evolving! %Youtube %Sam
+Gaming, Youtube, Sam
+5, 6, 10, 11
+1
+
+1000
+6
+I'm going to reign over the world. Kneel before me. %AI %LLM %KingLife %humanssuck
+AI, LLM, KingLife, humanssuck
+
+1, 2, 3, 4, 5, 7, 8, 9, 10, 11
+
+1200
+7
+Breaking news: The biggest movie of the year is coming soon! Stay tuned for updates. %Hollywood %Movies %Twitter
+Hollywood, Movies, Twitter
+1
+10
+
+1900
+10
+Just got a Victory Royale in a solo match! Feeling pumped and ready for more! %Gaming %2EZ
+Gaming, 2EZ
+1
+
+
+2500
+11
+Sometimes I feel like a wilted rose, my petals falling one by one, leaving me bare and exposed... %DepressionWednsday %SadLife
+DepressionWednsday, SadLife
+2
+1, 5, 10

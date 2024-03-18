@@ -1,0 +1,12 @@
+the : 11
+to : 7
+my : 5
+and : 4
+it : 3
+a : 3
+with : 3
+i : 3
+rucksack : 2
+from : 2
+flask : 2
+moonlight : 2

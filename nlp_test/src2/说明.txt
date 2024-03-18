@@ -1,0 +1,7 @@
+https://github.com/hiyoung123/ChineseSegmentation
+* fmm:              前向最大匹配算法分词
+* rmm:              后向最大匹配算法分词
+* bimm:             双向最大匹配算法分词
+* mmseg:            mmseg算法分词
+* mpseg:            最大概率算法分词
+* hmm:              HMM算法分词

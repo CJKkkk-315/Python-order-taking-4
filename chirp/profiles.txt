@@ -1,0 +1,52 @@
+1
+Elon Musk
+3, 7, 9, 10, 6
+7, 8, 9
+
+2
+Jack Dorsey
+3, 6
+6, 7, 8
+
+3
+Taylor Swift
+
+1, 5
+
+4
+Bill Gates
+
+6
+
+5
+Jacksepticeye
+3, 10
+2, 7
+
+6
+ChatGPT Official
+2, 4, 8, 9
+1, 2, 8, 9
+
+7
+Hollywood News
+1, 2, 5
+1
+
+8
+MKBHD
+1, 2, 6
+6
+
+9
+John Cena
+1, 6
+2, 4
+
+10
+Fortnite Official
+
+1, 5
+
+11
+Forever Lonely
